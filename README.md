@@ -5,4 +5,5 @@ Author-rakesh sharma
 (blue house)
 <br>
 check this my first repository page
-i don't understand me this github.
+<br>
+I don't understand me this github.
