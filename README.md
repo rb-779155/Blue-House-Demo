@@ -2,7 +2,7 @@
 this is my first repository
 <br>
 Author-rakesh sharma
-(blue house)
+(red house)
 <br>
 check this my first repository page
 <br>
